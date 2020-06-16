@@ -4,7 +4,7 @@ En esta página se recogen los resultados obtenidos en el TFG ""Análisis de flu
 Se añadirá en breves. 
 ## Resultados
 ### Calle Bélgica-Calle Sofía
-1. Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia:[VIP-R_Diaria](https://juliauru.github.io/Resultados_Belgica/Curva_diaria_1.html)
+1. Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia:[VIP-R_Diaria](https://juliauru.github.io/Datos_Belgica/Curva_diaria_1.html)
 - Gráfica dinámica donde se pueden observar la tensión, intensidad y potencia horaria en un día para cada línea de estudio y cada valor de penetración fotovoltaica (0%,25%,50%,75% y 100%). Se pueden realizar comparativas dinámicas clicando en los botones superiores y la leyenda, y variar el día de estudio con el slider inferior. 
 2. Variación en tensión, intensidad y potencia según la irradiancia incidente. 
 
