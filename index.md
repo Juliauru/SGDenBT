@@ -1,9 +1,12 @@
 # Trabajo de Fin de Grado: Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos
 En esta página se recogen los resultados obtenidos en el TFG "Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos" realizado por Julia Uruel Sanz, alumna del Doble grado de Ingeniería Eléctrica e Ingeniería Electrónica Industrial y Automática en la UPM. Este proyecto se ha realizado en colaboración con el Instituto de Energía Solar (IES).
+
 ## Resumen
 Se añadirá en breves. 
+
 ## Resultados
 En este apartdo se recogen todas las gráficas dinámicas generadas para la realización del estudio. Para interactuar con ellas pulse sobre las leyenda para mostrar/ocultar un conjunto de datos.
+---
 ### Calle Bélgica-Calle Sofía
 1. Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia:[VIP-R_Diaria](https://juliauru.github.io/Datos_Belgica/Curva_diaria_1.html)
 - Gráfica dinámica donde se pueden observar la tensión, intensidad y potencia horaria en un día para cada línea de estudio y cada valor de penetración fotovoltaica (0%,25%,50%,75% y 100%). Se pueden realizar comparativas dinámicas clicando en los botones superiores y la leyenda, y variar el día de estudio con el slider inferior. 
@@ -65,9 +68,9 @@ En este apartdo se recogen todas las gráficas dinámicas generadas para la real
     * [LINEA 56](https://juliauru.github.io/Datos_Belgica/R0_VIP_6/R0_line56.html)
     * [LINEA 240](https://juliauru.github.io/Datos_Belgica/R0_VIP_6/R0_line240.html)
  7. Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario.[DP_R0_Horaria](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8.html)
-  * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
-    * [LINEA 76](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line76.html)
-    * [LINEA 73](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line73.html)
+* Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
+    ···* [LINEA 76](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line76.html)
+    ···* [LINEA 73](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line73.html)
     * [LINEA 6](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line6.html)
     * [LINEA 244](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line244.html)
     * [LINEA 238](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line238.html)
@@ -79,10 +82,11 @@ En este apartdo se recogen todas las gráficas dinámicas generadas para la real
     * [LINEA 240](https://juliauru.github.io/Datos_Belgica/R0_VIP_h_8/R0_h_line240.html)
  
 
-
+---
 ### Calle Benimamet
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Juliauru/Juliauru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
 ### Calle Godella
 
