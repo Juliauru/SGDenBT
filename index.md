@@ -13,7 +13,7 @@ Se añadirá en breves.
  
 4. Variación en tensión, intensidad y potencia respecto a la potencia aportada por la red de media tensión: [VIP_P_aportada](https://juliauru.github.io/Datos_Belgica/VIP_anual_CG_4.html)
 - Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
-** [LINEA 76](https://juliauru.github.io/Datos_Belgica/R_Autoconsumo_4/CG_line76.html)
+* [LINEA 76](https://juliauru.github.io/Datos_Belgica/R_Autoconsumo_4/CG_line76.html)
   
 
 
