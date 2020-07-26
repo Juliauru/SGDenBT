@@ -186,5 +186,70 @@ En este apartdo se recogen todas las gráficas dinámicas generadas para la real
 
 ### Calle Godella
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia**:[VIP-R_Diaria](https://juliauru.github.io/Datos_Godella/Curva_diaria_1.html)
+* Gráfica dinámica donde se pueden observar la tensión, intensidad y potencia horaria en un día para cada línea de estudio y cada valor de penetración fotovoltaica (0%,25%,50%,75% y 100%). Se pueden realizar comparativas dinámicas clicando en los botones superiores y la leyenda, y variar el día de estudio con el slider inferior.
+2. **Variación en tensión, intensidad y potencia según la irradiancia incidente**: [VIP_Irradiancia](https://juliauru.github.io/Datos_Godella/VIP_anual_TY_2.html)
+* Gráfica dinámica con la tensión, intensidad y potencia en eje de ordenadas y la irradiancia incidente en eje de abcisas, para cada uno de los meses del año.
+3. **Detalle del caso anterior. Intensidad-Irrandiancia.Colormap con el desfase entre tensión e intensidad**:
+  * [LINEA 17](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line17.html)
+  * [LINEA 28](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line28.html)
+  * [LINEA 43](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line43.html)
+  * [LINEA 44](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line44.html)
+  * [LINEA 45](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line45.html)
+  * [LINEA 46](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line46.html)
+  * [LINEA 48](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line48.html)
+  * [LINEA 53](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line53.html)
+  * [LINEA 71](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line71.html)
+  * [LINEA 75](https://juliauru.github.io/Datos_Godella/Iangle_9/Ia_line75.html)
+ 4. **Distribución densidad de probabilidad de la tensión de fase respecto a Vf=230V**: [DP_230V](https://juliauru.github.io/Datos_Godella/Densidad_Probabilidad_3.html)
+* Distribución de probabilidad de la tensión de fase respecto a Vf=230V para cada uno de los meses del año.
+5. **Variación en tensión, intensidad y potencia respecto a la potencia aportada por la red de media tensión**: [VIP_P_aportada](https://juliauru.github.io/Datos_Godella/VIP_anual_CG_4.html)
+* Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
+* [LINEA 17](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line17.html)
+  * [LINEA 28](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line28.html)
+  * [LINEA 43](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line43.html)
+  * [LINEA 44](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line44.html)
+  * [LINEA 45](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line45.html)
+  * [LINEA 46](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line46.html)
+  * [LINEA 48](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line48.html)
+  * [LINEA 53](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line53.html)
+  * [LINEA 71](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line71.html)
+  * [LINEA 75](https://juliauru.github.io/Datos_Godella/R_Autoconsumo_4/CG_line75.html)
+  6. **Variación en tensión, intensidad y potencia de los escenarios con penetración 25%,50%,75% y 100% respecto al escenario sin penetración**: [VIP_R0](https://juliauru.github.io/Datos_Godella/VIP_anual_R_0_5.html)
+* Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
+* [LINEA 17](https://juliauru.github.io/Datos_Godella/R0_5/R0_line17.html)
+  * [LINEA 28](https://juliauru.github.io/Datos_Godella/R0_5/R0_line28.html)
+  * [LINEA 43](https://juliauru.github.io/Datos_Godella/R0_5/R0_line43.html)
+  * [LINEA 44](https://juliauru.github.io/Datos_Godella/R0_5/R0_line44.html)
+  * [LINEA 45](https://juliauru.github.io/Datos_Godella/R0_5/R0_line45.html)
+  * [LINEA 46](https://juliauru.github.io/Datos_Godella/R0_5/R0_line46.html)
+  * [LINEA 48](https://juliauru.github.io/Datos_Godella/R0_5/R0_line48.html)
+  * [LINEA 53](https://juliauru.github.io/Datos_Godella/R0_5/R0_line53.html)
+  * [LINEA 71](https://juliauru.github.io/Datos_Godella/R0_5/R0_line71.html)
+  * [LINEA 75](https://juliauru.github.io/Datos_Godella/R0_5/R0_line75.html)
+  7. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio mensual**: [DP_R0_Mensual](https://juliauru.github.io/Datos_Godella/R0_VIP_6.html)
+* Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
+* [LINEA 17](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line17.html)
+  * [LINEA 28](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line28.html)
+  * [LINEA 43](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line43.html)
+  * [LINEA 44](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line44.html)
+  * [LINEA 45](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line45.html)
+  * [LINEA 46](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line46.html)
+  * [LINEA 48](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line48.html)
+  * [LINEA 53](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line53.html)
+  * [LINEA 71](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line71.html)
+  * [LINEA 75](https://juliauru.github.io/Datos_Godella/R0_VIP_6/R0_line75.html)
+  8. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario**:[DP_R0_Horaria](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8.html)
+* Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
+* [LINEA 17](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h__line17.html)
+  * [LINEA 28](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line28.html)
+  * [LINEA 43](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line43.html)
+  * [LINEA 44](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line44.html)
+  * [LINEA 45](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line45.html)
+  * [LINEA 46](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line46.html)
+  * [LINEA 48](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line48.html)
+  * [LINEA 53](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line53.html)
+  * [LINEA 71](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line71.html)
+  * [LINEA 75](https://juliauru.github.io/Datos_Godella/R0_VIP_h_8/R0_h_line75.html)
+
 
