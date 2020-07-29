@@ -8,10 +8,10 @@ Se añadirá en breves.
 En este apartado se recogen todas las gráficas dinámicas generadas para la realización del estudio. Para interactuar con ellas pulse sobre las leyenda para mostrar/ocultar un conjunto de datos.
 
 ---
-* [Calle Bélgica-Calle Sofía](https://juliauru.github.io/D_Belgica)
+* [Calle Bélgica-Calle Sofía](https://juliauru.github.io/D.Belgica)
 ---
-* [Calle Beimamet](https://juliauru.github.io/D_Benimamet)
+* [Calle Benimamet](https://juliauru.github.io/D.Benimamet)
 ---
-* [Calle Godella](https://juliauru.github.io/D_Godella)
+* [Calle Godella](https://juliauru.github.io/D.Godella)
 ---
 
