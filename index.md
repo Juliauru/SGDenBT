@@ -5,10 +5,11 @@ En esta página se recogen los resultados obtenidos en el TFG "Análisis de fluj
 Se añadirá en breves. 
 
 ## Resultados
-En este apartdo se recogen todas las gráficas dinámicas generadas para la realización del estudio. Para interactuar con ellas pulse sobre las leyenda para mostrar/ocultar un conjunto de datos.
+En este apartado se recogen todas las gráficas dinámicas generadas para la realización del estudio. Para interactuar con ellas pulse sobre las leyenda para mostrar/ocultar un conjunto de datos.
 
 ---
-### Calle Bélgica-Calle Sofía
+* [Calle Bélgica-Calle Sofía](https://juliauru.github.io/Datos_Belgica)
+
 1. **Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia**:[VIP-R_Diaria](https://juliauru.github.io/Datos_Belgica/Curva_diaria_1.html)
 * Gráfica dinámica donde se pueden observar la tensión, intensidad y potencia horaria en un día para cada línea de estudio y cada valor de penetración fotovoltaica (0%,25%,50%,75% y 100%). Se pueden realizar comparativas dinámicas clicando en los botones superiores y la leyenda, y variar el día de estudio con el slider inferior.
 2. **Variación en tensión, intensidad y potencia según la irradiancia incidente**: [VIP_Irradiancia](https://juliauru.github.io/Datos_Belgica/VIP_anual_TY_2.html)
