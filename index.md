@@ -4,6 +4,9 @@ En esta página se recogen los resultados obtenidos en el TFG "Análisis de fluj
 ## Resumen
 Se añadirá en breves. 
 
+## Código
+El código se puede consultar en el repositorio [SGDenBT] (https://github.com/Juliauru/SGDenBT). Se puede consultar tanto el código en matlab utilizado para crear el código en OpenDSS desde planos en formato '.dxf' y la realización de simulaciones, como el código en Python para realizar gráficas dinámicas con la librería Plotly. 
+
 ## Resultados
 En este apartado se recogen todas las gráficas dinámicas generadas para la realización del estudio. Para interactuar con ellas pulse sobre las leyenda para mostrar/ocultar un conjunto de datos.
 
