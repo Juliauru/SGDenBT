@@ -1,5 +1,5 @@
 # Trabajo de Fin de Grado: Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos
-En esta página se recogen los resultados obtenidos en el TFG "Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos" realizado por Julia Uruel Sanz, alumna del Doble grado de Ingeniería Eléctrica e Ingeniería Electrónica Industrial y Automática en la UPM. Este proyecto se ha realizado en colaboración con el Instituto de Energía Solar (IES) y ha sido tutorizado por Óscar Perpiñan Laminguero.
+En esta página se recogen los resultados obtenidos en el TFG "Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos" realizado por Julia Uruel Sanz, alumna del Doble grado de Ingeniería Eléctrica e Ingeniería Electrónica Industrial y Automática en la UPM. Este proyecto se ha realizado en colaboración con el Instituto de Energía Solar (IES) y ha sido tutorizado por Óscar Perpiñan Lamigueiro.
 
 ## Resumen
 Se añadirá en breves. 
