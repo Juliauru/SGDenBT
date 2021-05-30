@@ -1,0 +1,13 @@
+//Con WireData
+New WireData.1_240_AL_W Diam=0.73622 Rdc=0.03809 
+~ Runits=kft  Radunits=in GMRunits=in
+
+
+New LineGeometry.4_240_AL nconds=4 nphases=3 units=cm 
+~ cond=1 wire=1_240_AL_W x=0  h=71
+~ cond=2 wire=1_240_AL_W x=-3  h=71
+~ cond=3 wire=1_240_AL_W x=0  h=74
+~ cond=4 wire=1_240_AL_W x=-3 h=74
+
+show lineconstants freq=50 units=km
+

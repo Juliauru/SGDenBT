@@ -1,0 +1,14 @@
+Compile (Master.dss)
+solve
+Redirect CircuitplottingScripts.DSS
+cd ../Resultados
+//Plot Loadshape Object=Shape33cM
+Export monitors linea1_potencia
+Plot monitor object= linea1_potencia channels=(1 3 5 )
+/*Export monitors linea1_voltaje
+Plot monitor object= linea1_voltaje channels=(1 3 5 )
+Export monitors carga_potencia
+Plot monitor object= carga_potencia channels=(1 2 )
+Export monitors carga_voltaje
+Plot monitor object= carga_voltaje channels=(1 3 )*/
+cd ../Code

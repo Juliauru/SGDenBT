@@ -1,0 +1,16 @@
+Clear
+Set DefaultBaseFrequency=50
+New object=circuit.Godella
+~ basekv=15 Bus1=AT1 pu=1.00 R1=0 X1=0.0001 R0=0 X0=0.0001
+
+Redirect        WiresDef.dss
+Redirect        Lineas.dss
+Redirect        CT.dss
+Redirect        LoadShapes.dss
+Redirect        CurvasGeneracion.dss
+Redirect        Cargas.dss
+
+Set VoltageBases = [15, 0.400]    ! ARRAY OF VOLTAGES IN KV
+CalcVoltageBases  ! PERFORMS ZERO LOAD POWER FLOW TO ESTIMATE VOLTAGE BASES
+set mode=yearly
+Buscoords Buscoords.dat   ! load in bus coordinates
